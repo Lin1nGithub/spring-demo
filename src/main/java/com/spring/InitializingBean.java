@@ -1,4 +1,4 @@
-package com.spring.annotation;
+package com.spring;
 
 public interface InitializingBean {
 

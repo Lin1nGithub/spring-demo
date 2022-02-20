@@ -1,6 +1,6 @@
 
 
-package com.spring.annotation;
+package com.spring;
 
 import com.sun.istack.internal.Nullable;
 

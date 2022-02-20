@@ -1,6 +1,6 @@
 package com.linkuan.service;
 
-import com.spring.annotation.BeanPostProcessor;
+import com.spring.BeanPostProcessor;
 import com.spring.annotation.Component;
 
 import java.beans.Introspector;
